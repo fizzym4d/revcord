@@ -142,7 +142,9 @@ export class Bot {
   }
 
   setupRevoltBot() {
-    this.revolt = new RevoltClient();
+    this.revolt = new RevoltClient({
+  apiURL: "https://api.divolt.xyz"
+});
 
     this.revolt.once("ready", () => {
       npmlog.info("Revolt", `Logged in as ${this.revolt.user.username}`);
