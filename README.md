@@ -33,7 +33,7 @@ Important: this bot is meant to be used in one server (Discord+Revolt), but can 
 
 1. Clone this repository, install dependencies and build
 ```sh
-git clone https://github.com/mayudev/revcord
+git clone https://github.com/fizzym4d/revcord
 cd revcord
 npm install
 npm run build
