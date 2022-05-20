@@ -11,7 +11,7 @@
 
 <p align="center"><b>🌉 A cord to connect your Revolt and Discord servers</b></p>
 
-🔗 A bridge for Discord and [Revolt](https://revolt.chat) with easy setup through commands, written in TypeScript using [revolt.js](https://github.com/revoltchat/revolt.js).
+🔗 A bridge for Discord and [Revolt-Divolt](https://divolt.xyz) with easy setup through commands, written in TypeScript using [revolt.js](https://github.com/revoltchat/revolt.js).
 
 ## 📔 Features
 - [x] Bridge messages between platforms
